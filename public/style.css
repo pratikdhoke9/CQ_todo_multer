@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+}
+
+.unit_div{
+    background-color: #787878;
+    margin: 2px 0px 2px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+#container{
+    border: 2px solid black;
+    display:inline-flex;
+    width: 80%;
+}
+#left_container{
+    background-color: #f6cccc;
+    width: 50%;
+}
+
+#right_container{
+    width: 50%;
+}
+textarea{
+    border: 0px;
+    font-size: 40px;
+    height: auto;
+    resize: none;
+    width: 98%;
+}
+#task_edit{
+    display: none;
+    /* background-color: #c51515; */
+}
+
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
